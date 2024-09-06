@@ -50,9 +50,3 @@ project:
 - [React Course](https://www.youtube.com/watch?v=bMknfKXIFA8)
 - [Google Webfonts Helper](https://gwfh.mranftl.com/fonts)
 - [ImgFlip Meme API](https://imgflip.com/api)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
