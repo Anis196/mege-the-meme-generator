@@ -1,11 +1,6 @@
 # Meme Generator
 
 Generate funny memes with this simple interactive React app!
-
-## Preview
-
-![Screenshot1](src/assets/showcase.png)
-
 ## Running on your machine
 
 To run this project locally, follow these steps:
